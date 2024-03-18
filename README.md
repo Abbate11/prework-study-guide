@@ -1,2 +1,3 @@
 # prework-study-guide
-For bootcamp projects and collaboration 
+Creating a study guide for bootcamp
+
